@@ -1,0 +1,2 @@
+vehicleId,seatNumber,isBooked,bookedBy,bookingId
+TR01,1,true,ajay,BK1001
