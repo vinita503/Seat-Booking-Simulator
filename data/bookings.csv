@@ -1,0 +1,3 @@
+bookingId,passengerName,passengerPhone,vehicleId,vehicleName,transportType,source,destination,departureTime,seatNumber,seatType,fare,bookedAt,cancelled
+BK1001,ajay,6457673456,TR01,Rajdhani Express,TRAIN,Delhi,Mumbai,06:00,1,WINDOW,1500.0,30-03-2026 23:55,false
+BK1002,riya,6789345623,BS01,KSRTC Airavat Volvo,BUS,Bengaluru,Mysuru,07:00,1,WINDOW,350.0,30-03-2026 23:58,true
